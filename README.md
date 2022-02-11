@@ -1,6 +1,6 @@
 # Body to send
 
-GET -> `http://localhost:3333/class-names`
+POST -> `http://localhost:3333/class-names`
 
 ```JSON
 {
